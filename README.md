@@ -1,0 +1,2 @@
+# LibEnumGenerics_Unity
+LibEnumGenericsをUnityで使いやすい形にしたもの
